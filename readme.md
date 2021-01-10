@@ -9,8 +9,8 @@ Pokretanje virtualnog okruženja:\
 Instaliranje Flaska:\
 <code>pip install flask</code>
 
-Dodavanje varijable za debug i osvježavanje stranice:
+Dodavanje varijable za debug i osvježavanje stranice:\
 <code>$env:FLASK_DEBUG=1</code>
 
-Pokretanje flask projekta:
+Pokretanje flask projekta:\
 <code>py wsgi.py</code>
