@@ -23,3 +23,7 @@ odnosno
 
 Pokretanje flask projekta:\
 <code>py wsgi.py</code>
+
+### Pokretanje flask projekta na portu 80
+
+<code>app.run(port=80, debug=True)</code>
