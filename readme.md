@@ -12,5 +12,10 @@ Instaliranje Flaska:\
 Dodavanje varijable za debug i osvježavanje stranice:\
 <code>$env:FLASK_DEBUG=1</code>
 
+Drugi način (bolji način):\
+U datoteku wsgi.py dodamo argument u app.run() debug=True\
+odnosno
+<code>app.run(debug=True)</code>
+
 Pokretanje flask projekta:\
 <code>py wsgi.py</code>
