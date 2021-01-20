@@ -27,3 +27,6 @@ Pokretanje flask projekta:\
 ### Pokretanje flask projekta na portu 80
 
 <code>app.run(port=80, debug=True)</code>
+
+Dovoljno je upisati localhost ili 127.0.0.1\
+Port 5000 nije potrebno upisivati
